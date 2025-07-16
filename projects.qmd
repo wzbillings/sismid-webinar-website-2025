@@ -1,0 +1,9 @@
+---
+title: "My Projects"
+listing:
+  contents: projects
+---
+
+*These are some projects that I've worked on. I'm very proud of them. Please check them out and if you think they are really cool, give me a job.*
+
+## List of Projects

@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "sismid-webinar-website-2025"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: projects.qmd
+        text: My Projects
+
+format:
+  html:
+    theme:
+      light: pulse
+      dark: vapor
+    css: styles.css
+    toc: true
+
+
+

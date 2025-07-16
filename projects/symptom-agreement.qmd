@@ -1,0 +1,19 @@
+---
+title: "Use of Patient-Reported Symptom Data in Clinical Decision Rules for Predicting Influenza in a Telemedicine Setting
+"
+format: html
+---
+
+A few years ago, I wrote this paper.
+
+As you can see from this paper, someone decided it was a good idea to let me do machine learning.
+
+Here is the paper: [JABFM link to paper](https://www.jabfm.org/content/36/5/766.abstract "JABFM link to paper")
+
+Here is the first figure from the paper.
+
+![This is figure 1.](/projects/symptom-agreement.png)
+
+```{r}
+rnorm(100, 3, 4)
+```

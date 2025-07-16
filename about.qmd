@@ -1,0 +1,12 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: github
+      text: My GitHub page
+      href: https://github.com/wzbillings
+---
+
+I just finished my PhD at the University of Georgia! Yay!

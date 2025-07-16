@@ -1,0 +1,15 @@
+{
+  "hash": "b09bbbab1d95cfc98b29295ed37d320f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Use of Patient-Reported Symptom Data in Clinical Decision Rules for Predicting Influenza in a Telemedicine Setting\n\"\nformat: html\n---\n\n\n\nA few years ago, I wrote this paper.\n\nAs you can see from this paper, someone decided it was a good idea to let me do machine learning.\n\nHere is the paper: [JABFM link to paper](https://www.jabfm.org/content/36/5/766.abstract \"JABFM link to paper\")\n\nHere is the first figure from the paper.\n\n![This is figure 1.](/projects/symptom-agreement.png)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(100, 3, 4)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  [1]  3.2702769  7.1428585 11.6282663  5.8082940 -1.9861268  8.8915417\n  [7]  3.9230471  7.6239565 10.3726567  8.2382112  6.1811433  2.2518976\n [13]  0.3242612  2.5458684  5.1420808  4.4837836  2.7497963  2.6907708\n [19] -1.8164270 -0.8970762 -0.1694059 -4.6646739  1.5110606 -1.3820035\n [25] -2.9369668 -0.9781785 -6.5713718  2.8225709 -4.0241971 -3.3313834\n [31]  3.7013313  4.9201452 11.3085115  3.2046663  5.7947911  6.6964519\n [37]  7.8878432  7.3478021 10.0249466  7.7376755  4.1830124  3.4550059\n [43]  1.9529021  9.8326856  5.9693328  4.8513227 -1.7825294  5.3489972\n [49]  8.6905374  3.2030735  1.1919333 11.3062264  3.2644353  7.6944237\n [55]  9.6260990  6.1587175 -4.3648048  5.3880245 -1.2442353  4.5591889\n [61]  4.0067640  8.8264629  4.3757675 -1.1985855  5.8019917 -0.5228912\n [67] -0.7211090  1.4600939  0.9898461  0.2703961  3.2960908 -3.7838652\n [73]  6.1718966  0.7717697  4.1616905  7.8903804 -1.2397717  0.8782707\n [79] -2.3161464 -0.5071476 -2.5082709  3.3673922  9.6520938  3.9245108\n [85] -5.3420280  1.5356483 -2.4536211  8.9139374  1.1655889  2.8104248\n [91] -6.8701717  0.2446169  0.5459032 -0.5502578  6.3385407  5.8099508\n [97]  0.8078213 -0.1015963 13.3572735  7.7570077\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

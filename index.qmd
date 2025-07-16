@@ -1,0 +1,14 @@
+---
+title: "sismid-webinar-website-2025"
+---
+
+This is the home page for my website. **Thank you for coming to my website!**
+
+$$
+\int x^2 \ dx
+$$
+
+```{r}
+data("iris")
+plot(iris$Sepal.Length, iris$Sepal.Width)
+```
